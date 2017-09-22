@@ -1,0 +1,7 @@
+PROCES_1.vsdx - poslovni proces objasnjen u alatu MS Visio. Sema se nalazi i u dokumentu zadatak B.docx
+zadatak B.docx - pojasnjenje poslovnog procesa
+zadatakB.sql - struktura baze poslovnog procesa
+za_model.sql - reversnim inženjerningom dolazimo do modela baze
+work_applyB.mwb je model baze
+interfejsi su kreirani koriscenjem Visual Studia i nisu povezani sa bazom jos uvek.
+Nazivi interfejsa su kreirani prema dokumentima koja se popunjavaju u procesu i smesteni su u folder Forme.

@@ -1,0 +1,4 @@
+ZadatakA.sql - kreira bazu sa tabelama i podacima
+ZA_MODEL.sql - reversnim inženjerningom dolazimo do modela baze
+work_apply.mwb je model baze
+upiti su naslovnjeni redom prema zadatku.

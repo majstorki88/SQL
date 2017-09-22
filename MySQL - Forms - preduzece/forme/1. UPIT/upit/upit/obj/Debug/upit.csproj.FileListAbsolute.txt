@@ -1,0 +1,9 @@
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\bin\Debug\upit.exe.config
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\bin\Debug\upit.exe
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\bin\Debug\upit.pdb
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\obj\Debug\upit.csprojResolveAssemblyReference.cache
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\obj\Debug\upit.Form1.resources
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\obj\Debug\upit.Properties.Resources.resources
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\obj\Debug\upit.csproj.GenerateResource.Cache
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\obj\Debug\upit.exe
+C:\Users\nemanjama\Desktop\posao\zadatak B\forme\1. UPIT\upit\upit\obj\Debug\upit.pdb
